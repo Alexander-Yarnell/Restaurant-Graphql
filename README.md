@@ -1,2 +1,5 @@
 # Restaurant-Graphql
-This is a simple api running graphql for my restaurant app.
+
+# Run npm Install
+
+# Run node index.js
